@@ -1,0 +1,28 @@
+name: Narrative
+favicon: null
+layout_spectrum: 0.03934247046709061
+typography_spectrum: 0.8514997672755271
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21840404416434467
+  lightness: 0.04322158615104854
+  saturation: 0.6900590294972062
+  rhythmicContrast: 0.26313735893927515
+purpose: []
